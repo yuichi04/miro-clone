@@ -6,3 +6,7 @@
 - React 18
 - Next.js 14
 - TailwindCSS
+
+# BaaS
+- Convex
+- Clerk
