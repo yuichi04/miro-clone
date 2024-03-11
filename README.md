@@ -8,5 +8,5 @@
 - TailwindCSS
 
 # BaaS
-- Convex
-- Clerk
+- [Convex](https://www.convex.dev/)
+- [Clerk](https://clerk.com/)
